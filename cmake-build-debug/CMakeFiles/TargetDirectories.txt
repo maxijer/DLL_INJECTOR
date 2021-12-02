@@ -1,0 +1,3 @@
+C:/Users/local_admin/CLionProjects/OLYMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/local_admin/CLionProjects/OLYMP/cmake-build-debug/CMakeFiles/OLYMP.dir
+C:/Users/local_admin/CLionProjects/OLYMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
